@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8192e51b-8691-4b31-8069-8195168eded9" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../jpashop_test" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop_test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/..">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IkthbtfopIx7KJF8EHsrCA5X1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/insoo/IdeaProjects/scala4e",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32566696",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_7_builtIn_control_syntax._7_3_for" />
+      <recent name="_7_builtIn_control_syntax._7_while" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션._7_14">
+    <configuration name="_7_12" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_7_builtIn_control_syntax._7_3_for._7_12" />
+      <module name="IdeaProjects.scala4e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_builtIn_control_syntax._7_4_try_catch_finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7_13" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_7_builtIn_control_syntax._7_3_for._7_13" />
+      <module name="IdeaProjects.scala4e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_builtIn_control_syntax._7_4_try_catch_finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7_13_2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_7_builtIn_control_syntax._7_3_for._7_13_2" />
+      <module name="IdeaProjects.scala4e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_builtIn_control_syntax._7_4_try_catch_finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7_13_3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_7_builtIn_control_syntax._7_3_for._7_13_3" />
+      <module name="IdeaProjects.scala4e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_builtIn_control_syntax._7_4_try_catch_finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_7_14" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_7_builtIn_control_syntax._7_5_match._7_14" />
+      <module name="IdeaProjects.scala4e" />
+      <option name="PROGRAM_PARAMETERS" value="salt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_7_builtIn_control_syntax._7_5_match.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Play2Run" type="Play2FrameworkRunConfigurations" factoryName="Play 2 App" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="scala4e" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="enableSbtGlobalPlugins" value="false" />
+      <option name="play2EnvVariables">
+        <map />
+      </option>
+      <option name="play2IsNonDefaultInstallDirUsed" value="false" />
+      <option name="play2JpdaPort" value="9999" />
+      <option name="play2JvmOptions">
+        <array>
+          <option value="-Xms512M" />
+          <option value="-Xmx1024M" />
+          <option value="-Xss1M" />
+          <option value="-XX:+CMSClassUnloadingEnabled" />
+        </array>
+      </option>
+      <option name="play2NeedOpenInBrowser" value="true" />
+      <option name="play2NonDefaultInstallDir" value="" />
+      <option name="play2OpenUrl" value="http://localhost:9000" />
+      <option name="play2isAutoReloadEnabled" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Play 2 앱.Play2Run" />
+      <item itemvalue="애플리케이션._7_12" />
+      <item itemvalue="애플리케이션._7_13" />
+      <item itemvalue="애플리케이션._7_13_2" />
+      <item itemvalue="애플리케이션._7_13_3" />
+      <item itemvalue="애플리케이션._7_14" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션._7_14" />
+        <item itemvalue="애플리케이션._7_13_2" />
+        <item itemvalue="애플리케이션._7_13_3" />
+        <item itemvalue="애플리케이션._7_13" />
+        <item itemvalue="애플리케이션._7_12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="8192e51b-8691-4b31-8069-8195168eded9" name="변경" comment="" />
+      <created>1670737534184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670737534184</updated>
+      <workItem from="1670737535434" duration="306000" />
+      <workItem from="1670737850555" duration="2343000" />
+      <workItem from="1670740219596" duration="8018000" />
+      <workItem from="1670761999458" duration="3523000" />
+      <workItem from="1670796417687" duration="4556000" />
+      <workItem from="1670801669580" duration="1073000" />
+      <workItem from="1670839352668" duration="6488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_6.scala</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_8.scala</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>27</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9.scala</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9_2.scala</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9_2.scala</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9_2.scala</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_3_for/_7_9_2.scala</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/_7_builtIn_control_syntax/_7_4_try_catch_finally/_7_10_2.scala</url>
+          <line>25</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
